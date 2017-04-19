@@ -3,4 +3,6 @@ Ecosystem is a cross-platform environment management system from [Peregrine Labs
  
 Please refer to the [https://github.com/PeregrineLabs/Ecosystem](https://github.com/PeregrineLabs/Ecosystem) for more details.
 
+**Note: The env format was migrated over to JSON for the 0.7.0 release, you will need to use that version or higher for compatibility reasons.**
+
 This repository contains all of the .env files as required by Ecosystem and may be forked/updated as you see fit.
